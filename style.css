@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+#canvas {
+  background-color: #f4f4f4;
+  border-radius: 5px;
+}
